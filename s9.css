@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(13, 96, 6);
+}
+
+header{
+    background-color: rgb(227, 139, 46);
+    height: 150px;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: azure;
+}
+p{
+    color: rgb(242, 255, 0);
+    font-size: 20px;
+    font-style: italic;
+}
+main{
+    height: 500px;
+    display: flex;
+}
+
+.left{
+    width: 33.3%;
+    height: 100%;
+    background-color: rgb(50, 177, 255);
+    text-align: center;
+    
+}
+
+.center{
+    width: 33.3%;
+    height: 100%;
+    background-color: rgb(241, 198, 88);
+    text-align: center;
+
+
+}
+
+.right{
+    width: 33.3%;
+    height: 100%;
+    background-color: rgb(233, 29, 165);
+    text-align: center;
+}

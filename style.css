@@ -1,0 +1,135 @@
+body{    
+    font-size: 80px;
+    color:brown;
+    margin: 0px;
+    background: radial-gradient(#0028ef, #fff70000);
+}
+header{
+    
+    height: 600px;
+    background-color: blueviolet;
+    background-image: url(https://cdn.akamai.steamstatic.com/steam/apps/570/ss_b33a65678dc71cc98df4890e22a89601ee56a918.1920x1080.jpg?t=1682639497);
+    color:red;
+    font-size: 80px;
+    text-align:center; 
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -180px;
+    padding-top: 130px;
+    padding-bottom: 130px;
+    padding-left: 190px;
+}
+
+h1{
+    font-size: 130px;
+    color: chocolate;
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+    text-shadow: black 2px 5px 5px;
+    margin: 0px;
+    width: 450px;
+    text-align: center;
+    margin-left: 720px;
+    
+
+
+
+}
+
+h2{
+    font-size: 60px;
+    color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: black 2px 5px 5px;
+    font-style: oblique;
+    text-align: center;
+
+
+}
+
+main{
+    
+    background-color:black;
+    color:blue;
+    font-size: 70px;
+    
+    
+}
+footer{
+    height: 30%;
+}
+
+    
+
+
+.left{
+    background: conic-gradient(from 240deg at 40% 40%, rgb(255, 0, 144), rgb(0, 191, 255));
+    float: left;
+    width: 50%;
+    height: 100%;
+    color: rgb(255, 191, 42);
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-position: center;
+
+    
+}
+
+.right{
+    background: repeating-conic-gradient(red 0%, yellow 15%, blue 33%);
+    float: right;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    padding: 10px;
+    
+
+
+}
+
+.container{
+    width: 90%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+
+}
+
+main{
+    background: radial-gradient( rgb(242, 0, 255), rgb(255, 242, 0));
+    display: flex;
+    justify-content: center;
+    color: aqua;
+    height: 100%;
+    
+
+}
+
+.f_right{
+    padding-left: 20px;
+}
+
+footer{
+    width: auto;
+    display: flex;
+    font-size: 40px;
+    color:rgb(65, 34, 51);
+    margin-top: 10px;
+    
+}
+ul{
+    display: flex;
+}
+li{
+    list-style: none;
+    padding-left: 300px;
+    margin-left: 500px;
+}
+
+
